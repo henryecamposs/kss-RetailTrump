@@ -1,0 +1,32 @@
+26/11/2020 2:49:37 p. m. Error fatal en Fiscalizador: 
+Detalles del Error: 
+"System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToDecimal(String value, IFormatProvider provider)
+   en System.String.System.IConvertible.ToDecimal(IFormatProvider provider)
+   en System.Convert.ToDecimal(Object value)
+   en RetailTrump.frmMain.gridFinal_DataBindingComplete(Object sender, GridDataBindingCompleteEventArgs e) en D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\frmMain.cs:línea 1244
+   en DevComponents.DotNetBar.SuperGrid.SuperGridControl.DoDataBindingCompleteEvent(GridPanel gridPanel)
+   en DevComponents.DotNetBar.SuperGrid.DataBinder.AddIList(IList list, Boolean autogen, ProcessChildRelations crProcess)
+   en DevComponents.DotNetBar.SuperGrid.DataBinder.AddIList(IList list)
+   en DevComponents.DotNetBar.SuperGrid.DataBinder.DataConnect()
+   en DevComponents.DotNetBar.SuperGrid.GridPanel.UpdateDataBindings()
+   en DevComponents.DotNetBar.SuperGrid.GridPanel.MeasureOverride(GridLayoutInfo layoutInfo, GridLayoutStateInfo stateInfo, Size constraintSize)
+   en DevComponents.DotNetBar.SuperGrid.GridElement.Measure(GridLayoutInfo layoutInfo, GridLayoutStateInfo stateInfo, Size constraintSize)
+   en DevComponents.DotNetBar.SuperGrid.SuperGridControl.ArrangeGrid(Graphics g)
+   en DevComponents.DotNetBar.SuperGrid.SuperGridControl.OnPaint(PaintEventArgs e)
+   en System.Windows.Forms.Control.PaintWithErrorHandling(PaintEventArgs e, Int16 layer)
+   en System.Windows.Forms.Control.WmPaint(Message& m)
+   en System.Windows.Forms.Control.WndProc(Message& m)
+   en DevComponents.DotNetBar.SuperGrid.SuperGridControl.WndProc(Message& m)
+   en System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   en System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   en System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   en DevComponents.DotNetBar.Touch.?.CallWindowProc(IntPtr prevWndFunc, IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   en DevComponents.DotNetBar.Touch.TouchHandler.?(IntPtr ?, Int32 ?, IntPtr ?, IntPtr ?)"
+
+26/11/2020 2:49:37 p. m. ********** App Closed ********** 
+
+
+

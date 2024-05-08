@@ -1,0 +1,135 @@
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\RetailTrump.exe
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\RetailTrump.pdb
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\RetailTrump\RetailTrump\obj\Debug\RetailTrump.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\RetailTrump\RetailTrump\obj\Debug\RetailTrump.Properties.Resources.resources
+D:\Proyectos KSS\RetailTrump\RetailTrump\obj\Debug\RetailTrump.csproj.GenerateResource.Cache
+D:\Proyectos KSS\RetailTrump\RetailTrump\obj\Debug\RetailTrump.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\RetailTrump\RetailTrump\obj\Debug\RetailTrump.exe
+D:\Proyectos KSS\RetailTrump\RetailTrump\obj\Debug\RetailTrump.pdb
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\RetailTrump.exe.config
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\DevComponents.Instrumentation.dll
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\DevComponents.Instrumentation.xml
+D:\Proyectos KSS\RetailTrump\RetailTrump\bin\Debug\ksslib.dll
+D:\Proyectos KSS\RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmSerial.resources
+D:\Proyectos KSS\RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmMain.resources
+D:\Proyectos KSS\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.csprojResolveAssemblyReference.cache
+D:\Proyectos KSS\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.frmMain.resources
+D:\Proyectos KSS\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.frmSerial.resources
+D:\Proyectos KSS\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.Properties.Resources.resources
+D:\Proyectos KSS\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.csproj.GenerateResource.Cache
+D:\Proyectos KSS\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.csproj.CoreCompileInputs.cache
+D:\Proyectos KSS\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.exe
+D:\Proyectos KSS\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.pdb
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\RetailTrump.exe.config
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\RetailTrump.exe
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\RetailTrump.pdb
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\DevComponents.Instrumentation.dll
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\ksslib.dll
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Proyectos KSS\Retail_Trump\RetailTrump\bin\Debug\DevComponents.Instrumentation.xml
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\RetailTrump.exe.config
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\RetailTrump.exe
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.dll
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\DevComponents.Instrumentation.dll
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\ksslib.dll
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.xml
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\DevComponents.Instrumentation.xml
+D:\HC\My Systems\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.csprojResolveAssemblyReference.cache
+D:\HC\My Systems\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.frmMain.resources
+D:\HC\My Systems\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.frmSerial.resources
+D:\HC\My Systems\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.Properties.Resources.resources
+D:\HC\My Systems\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.csproj.GenerateResource.Cache
+D:\HC\My Systems\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.csproj.CoreCompileInputs.cache
+D:\HC\My Systems\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.exe
+D:\HC\My Systems\Retail_Trump\RetailTrump\obj\Debug\RetailTrump.pdb
+D:\HC\My Systems\Retail_Trump\RetailTrump\bin\Debug\RetailTrump.pdb
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csprojResolveAssemblyReference.cache
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmMain.resources
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmSerial.resources
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.Properties.Resources.resources
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csproj.GenerateResource.Cache
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csproj.CoreCompileInputs.cache
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.exe
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.pdb
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\RetailTrump.exe.config
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\RetailTrump.exe
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\RetailTrump.pdb
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.Instrumentation.dll
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\Net Local Projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.Instrumentation.xml
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\bin\Debug\RetailTrump.exe.config
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\bin\Debug\RetailTrump.exe
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\bin\Debug\RetailTrump.pdb
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csprojResolveAssemblyReference.cache
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmMain.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmSerial.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmValor_Divisa.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.Properties.Resources.resources
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csproj.GenerateResource.Cache
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csproj.CoreCompileInputs.cache
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.exe
+D:\KSS Projects\Net Local Projects\App Extensiones\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.pdb
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\RetailTrump.exe.config
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\RetailTrump.exe
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\RetailTrump.pdb
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\ksslib.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\ksslib_c.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\Newtonsoft.Json.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.Instrumentation.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\System.Data.SQLite.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\AutoMapper.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\TfhkaNet.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\EntityFramework.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.DotNetBar2.xml
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\ksslib_c.pdb
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\ksslib_c.dll.config
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\DevComponents.Instrumentation.xml
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\System.Data.SQLite.xml
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\System.Data.SQLite.dll.config
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\EntityFramework.xml
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csprojAssemblyReference.cache
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.ctrlBase.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.ctrlTransparent.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmConfig.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmLoadFeedInstagram.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmMain.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmMonitorvlaView.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmSerial.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.frmValor_Divisa.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.listViewCustom.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.Properties.Resources.resources
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csproj.GenerateResource.cache
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csproj.CoreCompileInputs.cache
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.csproj.CopyComplete
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.exe
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\obj\Debug\RetailTrump.pdb
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\POS\BMC\FpCtrl.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\POS\tfhkaif.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\POS\TFHKA\TfhkaNet.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\SpinningProgress.dll
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\ksslib.pdb
+D:\KSS Projects\extensions_local_projects\kss_RetailTrump\RetailTrump\bin\Debug\ksslib.xml
